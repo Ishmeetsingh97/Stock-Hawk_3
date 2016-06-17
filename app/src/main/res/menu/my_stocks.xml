@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyStocksActivity">
+  <item android:id="@+id/Units"
+      android:title="@string/Units"
+      android:icon="@drawable/dollar"
+      android:orderInCategory="99"
+      app:showAsAction="always"/>
+
+</menu>

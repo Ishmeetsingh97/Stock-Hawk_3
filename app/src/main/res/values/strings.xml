@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name" translatable="false">Stock Hawk</string>
+
+  <string name="action_example" translatable="true">Example action</string>
+  <string name="Units" translatable="true">Change Units</string>
+  <string name="Search" translatable="true">Symbol Search</string>
+  <string name="Test" translatable="true">Search for a Stock Symbol</string>
+  <string name="Hint" translatable="false">FB</string>
+  <string name="PreFill"></string>
+  <string name="Title" translatable="true">Today\'s Market</string>
+  <string name="network_toast" translatable="true">Please connect to a network.</string>
+  <string name="NoStock" translatable="true">Stock does not exist.</string>
+  <string name="PreStock" translatable="true">Already saved stock.</string>
+  <string name="Talkback" translatable="true">Stock symbol</string>
+  <string name="TalkbackChange" translatable="true">Change</string>
+  <string name="ChangePrice" translatable="true">Change price</string>
+  <string name="PerChange" translatable="true">Percentage change</string>
+  <string name="fab" translatable="true">Add stock</string>
+
+</resources>
